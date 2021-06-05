@@ -1,0 +1,1 @@
+Estava ansiosa para esta aula, onde começamos a conhecer um pouco mais sobre python, a aula superou minhas expectativas. Aprendemos o que é uma linguagem interpretada e compilada, como  python funciona, o que é tipagem dinamica e estatistica, o que é tipagem fraca e forte, revimos logica e algoritimos, variaveis, operadores, e vimos alguns exemplos.

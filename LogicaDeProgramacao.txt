@@ -1,0 +1,1 @@
+Nesta aula um pouco mais complexa, ministrada pelo professor Danilo, conhecemos um pouco de lógica e algoritimos. Entendemos que o computador só irá fazer o que programarmos ele, por isso nosso script precisa ser muito completo, para não termos erros.
